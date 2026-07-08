@@ -55,7 +55,8 @@ Using embedded systems and IoT technologies, the project hosts a web-based dashb
 
 ## Hardware Setup
 
-![Hardware Setup](Images/project_setup.jpg)
+ ![Real hardware implementation](circuit.jpeg)
+
 
 ---
 
