@@ -101,21 +101,6 @@ Displays real-time electrical parameters through the ESP32 web server.
 
 ---
 
-# 📂 Repository Structure
-
-```text
-IoT-Based-Smart-Energy-Monitoring-System
-│
-├── Arduino_Code
-│   └── energy_meter.ino
-│
-├── Images
-│   ├── project_setup.jpg
-│   └── web_dashboard.png
-│
-├── Circuit_Diagram
-│
-└── README.md
 ```
 
 ---
